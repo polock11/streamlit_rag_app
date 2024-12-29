@@ -7,4 +7,5 @@
 - **Integrated a user-friendly PDF display and dynamic chat interface**, enhancing the overall user experience.
 
 
-<img ss.png>
+#### Screenshot
+![Screenshot](ss.png)
